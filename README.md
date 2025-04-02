@@ -34,7 +34,7 @@ To set up and use Sentiment Analyzer in your own project, follow these steps:
 
 - Clone this repository to your local machine.
 ```
-    https://github.com/mohar69/gesture_recognition.git
+    https://github.com/SouvagyaCode/gesture-recognition.git
 ```
 - Install the required dependencies for python 3.9 or above.
 ```
